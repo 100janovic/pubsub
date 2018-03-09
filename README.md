@@ -2,7 +2,7 @@
 
 Small script for Pub/Sub Pattern.
 <br/>
-Useful when building communications with different modules and helps with loosely coupling.
+Useful when building communications with different modules and helps to achieve loose coupling.
 
 # Usage
 
